@@ -1,5 +1,5 @@
 # How Correct Is Your Vision Model? A Comprehensive Survey
-![framework](framework.png)
+![framework](framework.jpg)
 
 Welcome to the official repository for the paper **"How Correct Is Your Vision Model? A Comprehensive Survey"**. This repository contains the experimental code and the comprehensive survey paper associated with our research.
 
