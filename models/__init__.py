@@ -126,7 +126,6 @@ def load_model(model_name, num_classes=None):
 if __name__ == '__main__':
     # print(models.list_models())
     # print(models.vgg16_bn(num_classes=100))
-    # print('#' * 50)
     # weights = models.ResNet50_Weights.DEFAULT
     # print(models.ResNet50_Weights.DEFAULT.transforms())
     # print(models.VGG16_BN_Weights.DEFAULT.transforms())

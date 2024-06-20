@@ -9,7 +9,6 @@ from loaders.detection import coco as d_coco
 # print('DATA TYPE:', data_type)
 # print('-' * 50)
 
-
 def load_data(data_name, data_dir, data_type):
     if data_name == 'ImageNet':
         return imagenet.load(data_dir, data_type)

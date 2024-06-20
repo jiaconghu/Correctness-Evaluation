@@ -177,7 +177,6 @@ def draw_image_generation():
     data_name = 'CIFAR10'
     models_x = []
     models_y = []
-
     # FID(小，0～+)
     # IS（大，0～+）
     # SWD(小，0～+)
