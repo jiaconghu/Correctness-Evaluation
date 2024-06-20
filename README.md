@@ -84,7 +84,6 @@ Below is the list of papers we surveyed in our comprehensive study:
 2. Yolov4: Optimal speed and accuracy of object detection
 3. Focal loss for dense object detection
 4. Ssd: Single shot multibox detector
-5. Mask r-cnn
 6. Neural architecture optimization
 7. Auto-deeplab: Hierarchical neural architecture search for semantic image segmentation
 8. Neural architecture search with reinforcement learning
