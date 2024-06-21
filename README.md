@@ -11,7 +11,7 @@ In this repository, you will find:
 
 ## Online Model Evaluation Platform
 
-Based on our survey, we have developed an online model evaluation platform. You can access it at: [model-evaluation.vipazoo.com](http://model-evaluation.vipazoo.com).
+Based on our survey, we have developed an online model evaluation platform. You can access it at: [https://model-evaluation.vipazoo.com](https://model-evaluation.vipazoo.com).
 
 ## Surveyed Papers
 

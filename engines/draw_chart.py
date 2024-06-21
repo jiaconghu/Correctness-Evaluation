@@ -39,6 +39,7 @@ def draw_image_classification():
             y.append(round(s * 100, 2))
         models_y.append(y)
 
+    print('-' * 10)
     models_x = np.asarray(models_x)
     models_y = np.asarray(models_y)
     print(models_x)
@@ -335,10 +336,10 @@ def draw_line_chart():
 
 
 if __name__ == '__main__':
-    # draw_image_classification()
+    draw_image_classification()
     # draw_object_detection()
     # draw_semantic_segmentation()
     # draw_human_pose_estimation()
     # draw_image_generation()
-    draw_bubble_chart()
+    # draw_bubble_chart()
     # draw_line_chart()
